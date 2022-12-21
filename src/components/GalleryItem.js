@@ -50,7 +50,6 @@ function GalleryItem(props){
             </div>
         )
     }
-    
 
     return (
         <div onClick={() =>setView(!view)} style={{'display': 'inline-block'}}>
